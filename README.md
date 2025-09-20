@@ -4,9 +4,8 @@ Hi there! I'm **Tshidi Hlalele**, a data-driven professional leveraging a backgr
 ---
 
 ## Skills & Technologies: 
-- **Languages**: SQL, Python
-- **Databases**: MySQL, PostgresSQL, Microsoft SQL Server
 - **Tools**: Excel, Tableau, Power BI, Docker, Git
+- **Databases**: MySQL, PostgresSQL, Microsoft SQL Server
 - **Data Manipulation and Analysis**: SQL
 
 ---
