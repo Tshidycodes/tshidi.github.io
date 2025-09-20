@@ -43,9 +43,9 @@ Data Analyst Job Market 2023
 
 ## 📬 Let’s Connect!
 
-- 📧 [Email:](tshidyh@hotmail.com) 
-- 🔗 [LinkedIn:](https://www.linkedin.com/in/tshidi-hlalele-85b558200/)  
-- 💻 [GitHub:](https://github.com/Tshidycodes)
+- 📧 [Email](tshidyh@hotmail.com) 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tshidi-hlalele-85b558200/)  
+- 💻 [GitHub](https://github.com/Tshidycodes)
 
 ---
 
