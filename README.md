@@ -1,4 +1,4 @@
-# Tshidi Hlalele - Data Analyst Portfolio
+# Data Analyst Portfolio
 Hi there! I'm **Tshidi Hlalele**, a data-driven professional leveraging a background in scientific and environmental research to transition into data analytics. I love turning raw data into actionable insights that solve real world problems.
 
 ---
