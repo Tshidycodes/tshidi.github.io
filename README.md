@@ -37,15 +37,15 @@ Hi there! I'm **Tshidi Hlalele**, a data-driven professional leveraging a backgr
 Data Analyst Job Market 2023
 **Tech Stack**: SQL
 - Analysing the most in-demand skills for data analysts, and the market value of both essential and niche technical expertise.
-  [🔗 View Project](https://github.com/Tshidycodes/sql-data-warehouse-project)
+  [🔗 View Project on GitHub](https://github.com/Tshidycodes/sql-data-warehouse-project)
 
 ---
 
 ## 📬 Let’s Connect!
 
-- 📧 Email: [tshidyh@hotmail.com]  
-- 🔗 LinkedIn: [(https://www.linkedin.com/in/tshidi-hlalele-85b558200/)]  
-- 💻 GitHub: [https://github.com/Tshidycodes]
+- 📧 [Email:](tshidyh@hotmail.com) 
+- 🔗 [LinkedIn:](https://www.linkedin.com/in/tshidi-hlalele-85b558200/)  
+- 💻 [GitHub:](https://github.com/Tshidycodes)
 
 ---
 
