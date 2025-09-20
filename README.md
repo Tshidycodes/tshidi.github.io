@@ -4,9 +4,9 @@ Hi there! I'm **Tshidi Hlalele**, a data-driven professional leveraging a backgr
 ---
 
 ## Skills & Technologies: 
-**Tools:** Excel, Tableau, Power BI, Docker, Git
-**Databases:** MySQL, PostgresSQL, Microsoft SQL Server
-**Data Manipulation and Analysis:** SQL
+- **Tools:** Excel, Tableau, Power BI, Docker, Git
+- **Databases:** MySQL, PostgresSQL, Microsoft SQL Server
+- **Data Manipulation and Analysis:** SQL
 
 ---
 
@@ -17,7 +17,7 @@ Hi there! I'm **Tshidi Hlalele**, a data-driven professional leveraging a backgr
 --- 
 
 ## Work Experience
-**Biodiversity Officer | Department of Forestry, Fisheries and the Environment Mar 2018 - Sept 2021**		
+**Biodiversity Officer | Department of Forestry, Fisheries and the Environment (Mar 2018 - Sept 2021)**		
 - Supported biodiversity conservation efforts by transforming complex datasets into actionable insights for policy and program development.
 - Routinely updated and managed databases to ensure timely access to data, reducing reporting errors and streamlining analysis.
 - Conducted data cleaning, transformation, and validation to ensure accuracy in datasets.
@@ -32,9 +32,9 @@ Hi there! I'm **Tshidi Hlalele**, a data-driven professional leveraging a backgr
 
 ## 📁 Featured Projects
 ### 1. SQL Data Warehouse Project
-**Goal** :Building a modern data warehouse with SQL Server, including ETL processes, data modeling and analytics
+- **Goal** :Building a modern data warehouse with SQL Server, including ETL processes, data modeling and analytics
 Data Analyst Job Market 2023
-**Tech Stack**: SQL
+- **Tech Stack**: SQL
 - Analysing the most in-demand skills for data analysts, and the market value of both essential and niche technical expertise.
   [🔗 View Project on GitHub](https://github.com/Tshidycodes/sql-data-warehouse-project)
 
