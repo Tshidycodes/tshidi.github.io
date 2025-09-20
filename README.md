@@ -38,6 +38,12 @@ Data Analyst Job Market 2023
 - Analysing the most in-demand skills for data analysts, and the market value of both essential and niche technical expertise.
   [🔗 View Project on GitHub](https://github.com/Tshidycodes/sql-data-warehouse-project)
 
+### 2. 📊 Customer Churn Prediction
+**Goal**: Identify customers likely to churn for a telecom company.  
+**Tech Stack**: Python, Scikit-learn, Logistic Regression, Random Forest  
+- Cleaned and explored 6K+ customer records
+- Trained multiple ML models with GridSearchCV
+   [🔗 View Project on GitHub](https://github.com/Tshidycodes/sql-data-warehouse-project)
 ---
 
 ## 📬 Let’s Connect!
