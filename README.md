@@ -6,7 +6,7 @@ Hi there! I'm **Tshidi Hlalele**, a data-driven professional leveraging a backgr
 ## Skills & Technologies: 
 - **Languages**: SQL, Python
 - **Databases**: MySQL, PostgresSQL, Microsoft SQL Server
-- **Tools**: Tableau, Power BI, Docker, Git
+- **Tools**: Excel, Tableau, Power BI, Docker, Git
 - **Data Manipulation and Analysis**: SQL
 
 ---
@@ -31,13 +31,25 @@ Hi there! I'm **Tshidi Hlalele**, a data-driven professional leveraging a backgr
 
 --- 
 
-## 📁 Projects
+## 📁 Featured Projects
 ### 1. SQL Data Warehouse Project
 **Goal** :Building a modern data warehouse with SQL Server, including ETL processes, data modeling and analytics
 Data Analyst Job Market 2023
 **Tech Stack**: SQL
 - Analysing the most in-demand skills for data analysts, and the market value of both essential and niche technical expertise.
   [🔗 View Project](https://github.com/Tshidycodes/sql-data-warehouse-project)
+
+---
+
+## 📬 Let’s Connect!
+
+- 📧 Email: [tshidyh@hotmail.com]  
+- 🔗 LinkedIn: [(https://www.linkedin.com/in/tshidi-hlalele-85b558200/)]  
+- 💻 GitHub: [https://github.com/Tshidycodes]
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate or connect.
 
 ---
 
