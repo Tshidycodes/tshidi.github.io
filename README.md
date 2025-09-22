@@ -17,6 +17,9 @@ This portfolio contains a curated selection of projects that demonstrate end-to-
 Bachelor of Science, Honores - University of the Free State
 
 Bachelor of Science in Entomology - University of the Free State
+- Core data analysis skills from BSc Entomology include Statistical analysis (ANOVA, regression), data collection and management, data visualization, Excel/R, research reporting, ecological and agricultural data interpretation.
+
+
   
 --- 
 
