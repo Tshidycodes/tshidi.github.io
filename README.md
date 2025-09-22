@@ -6,19 +6,17 @@ This portfolio contains a curated selection of projects that demonstrate end-to-
 ---
 
 ## Skills & Technologies
-**Data Manipulation & Analysis:** SQL, ETL, Excel
-
-**Visualization & BI Tools:** Tableau, Power BI
-
-**Databases:** MySQL, PostgreSQL, Microsoft SQL Server
-
-**Development & Workflow Tools:** Docker, Git
+- **Data Manipulation & Analysis:** SQL, ETL, Excel
+- **Visualization & BI Tools:** Tableau, Power BI
+- **Databases:** MySQL, PostgreSQL, Microsoft SQL Server
+- **Development & Workflow Tools:** Docker, Git
 
 ---
 
 ## Education
-- Bachelor of Science, Honores - University of the Free State
-- Bachelor of Science in Entomology - University of the Free State
+Bachelor of Science, Honores - University of the Free State
+
+Bachelor of Science in Entomology - University of the Free State
   
 --- 
 
