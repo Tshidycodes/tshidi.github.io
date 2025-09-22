@@ -52,6 +52,10 @@ Data Analyst Job Market 2023
    [🔗 View Project on GitHub](https://github.com/Tshidycodes/sql-data-warehouse-project)
 ---
 
+## Blogs
+
+---
+
 ## 📬 Let’s Connect!
 
 - 📧 [Email](tshidyh@hotmail.com) 
@@ -64,4 +68,4 @@ Thanks for stopping by! Feel free to explore my repositories and reach out if yo
 
 ---
 
-### Blogs
+
