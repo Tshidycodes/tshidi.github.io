@@ -1,5 +1,7 @@
 # Data Analyst Portfolio
-Hi there! I'm **Tshidi Hlalele**, a data-driven professional leveraging a background in scientific and environmental research to transition into data analytics. I love turning raw data into actionable insights that solve real world problems.
+I began my career as a scientific researcher in academia, agriculture, and environmental fields, where I learned how to design experiments, collect data and work with complex datasets to uncover meaningful patterns. I am currently transitioning into a data analyst role and specialize in transforming raw data into clear insights that drive data decision-making. 
+
+This portfolio contains a curated selection of projects that demonstrate end-to-end analytical skills: data extraction, cleaning/ETL, exploratory analysis, visualization, and communicating results for stakeholders.
 
 ---
 
