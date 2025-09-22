@@ -6,9 +6,13 @@ This portfolio contains a curated selection of projects that demonstrate end-to-
 ---
 
 ## Skills & Technologies
-**Tools**: Excel, Tableau, Power BI, Docker, Git
-**Databases**: MySQL, PostgresSQL, Microsoft SQL Server
-**Data Manipulation and Analysis**: SQL
+**Data Manipulation & Analysis:** SQL, ETL, Excel
+
+**Visualization & BI Tools:** Tableau, Power BI
+
+**Databases:** MySQL, PostgreSQL, Microsoft SQL Server
+
+**Development & Workflow Tools:** Docker, Git
 
 ---
 
