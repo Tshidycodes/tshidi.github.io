@@ -56,7 +56,7 @@ Data Analyst Job Market 2023
 
 
 ## Blogs
-
+[SQL Joins Explained with Simple Examples](https://medium.com/@hlaleletshidy/sql-joins-explained-with-simple-examples-d252d080a6b5)
 ---
 
 ## 📬 Let’s Connect!
